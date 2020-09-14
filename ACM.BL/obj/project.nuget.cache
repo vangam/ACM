@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmi7NpNVml2FwnrgjMIRw2krOyDzzOtoWBw2v51oX11LRdHV50PjmpY6GhQQz3tANl9JQhJGA4c4Mu5QRk/IFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mvanga\\.NET\\ACM.BL\\ACM.BL\\ACM.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvanga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mvanga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

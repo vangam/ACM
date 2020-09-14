@@ -1,0 +1,8 @@
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\mvanga\.NET\ACM.BL\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
